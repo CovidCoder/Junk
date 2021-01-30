@@ -54,5 +54,5 @@ Simple Bullet &gt; 3 Gunpowder\1 Metal Ingot<br>
 Simple Rifle Bullet &gt; 6 Gunpowder\1 Metal Ingot<br>
 Simple Shotgun Ammo &gt; 2 Gunpowder\1 Metal Ingot\2 Simple Bullets<br>
 Element Shards (100) &gt; 250 Element Dust<br>
-Element &gt; 1 Soap<br>
-Soap &gt; 2 Element</p>
+2 Element &gt; 1 Soap<br>
+1 soap &gt; 1 Element</p>
